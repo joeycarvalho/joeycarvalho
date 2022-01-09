@@ -4,7 +4,7 @@
   Atualmente, estou estudando **JavaScript** através do material de referência do **MDN WEB DOCS**, e por consequência me atualizando sobre **HTML** e **CSS**.
 
 - 💞️ I'm looking to collaborate on several projects that help my development...
-- 📫 How to reach me...well.. here!
+
 ## Status:
 
   <div align="center">
@@ -13,7 +13,7 @@
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyHawke&layout=compact&langs_count=7&theme=radical"/>-->
   </div>
 
-### Habilidades:
+## Habilidades:
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Hawke-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> - 
@@ -23,6 +23,9 @@
   </div>
 
   ![Snake animation](https://github.com/JoeyHawke/JoeyHawke/blob/output/github-contribution-grid-snake.svg)
+## Contato:
+  
+  <a href="mailto:contato.joey.hawke@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <!---
 JoeyHawke/JoeyHawke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
