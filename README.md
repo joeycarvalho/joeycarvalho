@@ -3,8 +3,6 @@
   Estudo programação por conta própria, aprendi a lógica de programação através do **VisuAlg e do Pdf** que o acompanhava, a partir deste ponto, comecei a estudar **Java** através do **NetBeans** e da documentação da **Oracle**.
   Atualmente, estou estudando **JavaScript** através do material de referência do **MDN WEB DOCS**, e por consequência me atualizando sobre **HTML** e **CSS**.
 
-- 💞️ I'm looking to collaborate on several projects that help my development...
-
 ## Status:
 
   <div align="center">
@@ -26,6 +24,12 @@
 ## Contato:
   
   <a href="mailto:contato.joey.hawke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+# Repositórios
+  
+## Organização do Material produzido durante os estudos
+  
+  Depois de um bom tempo é normal esquecer algumas informações, por isso estou refazendo os passos e organizando tudo em repositórios para facilitar uma consulta pessoal em uma possível consulta futura.
 <!---
 JoeyHawke/JoeyHawke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
