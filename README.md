@@ -1,4 +1,4 @@
-## 👋 Olá Eu sou Joey Hawke estudo Programação por conta própria lendo documentação e consumindo conteúdos gratuitos.
+# 👋 Olá Eu sou Joey Hawke 
 <div style="margin: auto;">
 
 </div>
