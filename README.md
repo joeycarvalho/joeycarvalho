@@ -1,7 +1,9 @@
 # :metal: Olá Eu sou Joey Hawke 
 <div style="margin: auto;">
-
+    <a href="https://github.com/JoeyHawke" target="_self" rel="internal">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoeyHawke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 - 👀 I’m interested in JavaScript, HTML, CSS, Java...
 - 🌱 I’m currently learning JavaScript...
 - 💞️ I'm looking to collaborate on several projects that help my development...
