@@ -25,7 +25,7 @@
   ![Snake animation](https://github.com/JoeyHawke/JoeyHawke/blob/output/github-contribution-grid-snake.svg)
 ## Contato:
   
-  <a href="mailto:contato.joey.hawke@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:contato.joey.hawke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
 <!---
 JoeyHawke/JoeyHawke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
