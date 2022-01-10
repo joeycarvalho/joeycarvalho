@@ -14,10 +14,10 @@
 ## Habilidades:
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="Hawke-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> - 
-    <img align="center" alt="Hawke-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> - 
-    <img align="center" alt="Hawke-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> - 
-    <img align="center" alt="Hawke-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> - 
+    <img align="center" alt="Hawke-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img align="center" alt="Hawke-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
+    <img align="center" alt="Hawke-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+    <img align="center" alt="Hawke-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   </div>
 
   ![Snake animation](https://github.com/JoeyHawke/JoeyHawke/blob/output/github-contribution-grid-snake.svg)
