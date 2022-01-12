@@ -20,7 +20,7 @@
     <img align="center" alt="Hawke-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   </div>
 
-  ![Snake animation](https://github.com/JoeyHawke/JoeyHawke/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/JoeyHawke/JoeyHawke/blob/output/github-contribution-grid-snake.svg)-->
 ## Contato:
   
   <a href="mailto:contato.joey.hawke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
