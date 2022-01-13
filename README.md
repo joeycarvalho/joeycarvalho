@@ -23,10 +23,9 @@
   ![Snake animation](https://github.com/JoeyHawke/JoeyHawke/blob/output/github-contribution-grid-snake.svg)
 ## Contato:
   
-  <details><summary><a href="mailto:contato.joey.hawke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></summary>
-      contato.joey.hawke@gmail.com
-  </details>
-  
+  <a href="mailto:contato.joey.hawke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><!--contato.joey.hawke@gmail.com-->
+ 
+
 # Repositórios
   
 ## Organização do Material produzido durante os estudos
