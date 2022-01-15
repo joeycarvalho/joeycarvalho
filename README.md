@@ -1,7 +1,6 @@
 # :metal: Olá Eu sou Joey Hawke 
 
-  Estudo programação por conta própria, aprendi a lógica de programação através do **VisuAlg e do Pdf** que o acompanhava, a partir deste ponto, comecei a estudar **Java** através do **NetBeans** e da documentação da **Oracle**.
-  Atualmente, estou estudando **JavaScript** através do material de referência do **MDN WEB DOCS**, e por consequência me atualizando sobre **HTML** e **CSS**.
+ 
 
 ## Status:
 
