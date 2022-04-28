@@ -1,4 +1,4 @@
-# :metal: Olá Eu sou Joey Hawke 
+# :metal: Olá, Eu sou Joey Hawke 
 
  
 
