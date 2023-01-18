@@ -5,6 +5,16 @@
  <h2 align="center">&#x1F4AD;Quem sou eu?&#x1F4AD; </h2>
  <p style="padding: 10px;">Olá, eu sou <strong>Joey Hawke</strong>, comecei a me interessar por desenvolvimento desde cedo, a curiosidade de saber como um programa foi feito, sempre foi maior do que o uso. Aproximadamente 2 décadas atrás comecei a estudar por conta própria, mesmo com toda a dificuldade que existia em conseguir bons materiais na época em questão.<br>Com o passar do tempo e a melhoria de acesso a banda larga no país em geral, comecei a ter acesso a bons materiais e as documentações oficiais.  Atualmente sou estudante de <em>Ciências da Computação</em>, decidi tornar o que sempre foi um passatempo em uma carreira.</p>
 </div>
+ 
+<div>
+ <h2>&#x1F331;Habilidades&#x1F331;</h2>
+ <details>
+  <summary>Linguagens</summary>
+  
+  
+ </details>
+ 
+</div>
 
 <!--# :metal: Olá, Eu sou Joey Hawke --> 
 
