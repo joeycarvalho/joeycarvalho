@@ -22,7 +22,7 @@
   
   <p></p>
   
-  <p align="justify"> &emsp; <img src="./pictures/html-logo.png"> &emsp; <img src="./pictures/css-logo.png"> &emsp; <img src="./pictures/javascript-logo.png"> &emsp; <img src="./pictures/php-logo.png"> &emsp; <img src="./pictures/c-logo.png"> &emsp; <img src="./pictures/java-logo.png"></p>
+  <p align="justify"> &emsp; <img src="./pictures/html-logo.png"> &emsp; <img src="./pictures/css-logo.png"> &emsp; <img src="./pictures/javascript-logo.png"> &emsp; <img src="./pictures/php-logo.png"> &emsp; <img src="./pictures/c-logo.png"> &emsp; <img src="./pictures/java-logo.png"> &emsp; <img src="./pictures/python-logo.png"></p>
   
  </details>
  
