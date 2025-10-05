@@ -1,4 +1,4 @@
-<div>
+<!--<div>
  
  <h1 align="center">&#x1F44B; Olá, Eu sou Joey Hawke&#x1F44B;</h1>
  
@@ -36,8 +36,8 @@
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoeyHawke&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>-->
     <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyHawke&layout=compact&langs_count=7&theme=radical"/>-->
     <img src="https://github-profile-trophy.vercel.app/?username=joeycarvalho&row=1&theme=algolia&no-bg=true")/>
-  </div>
-<!--   
+  <!--</div> 
+<!--
 ## Habilidades:
   
  <div style="display: inline_block"><br>
@@ -49,12 +49,12 @@
   </div> -->
 
  
-## Contato:
+<!--## Contato:
   
   <a href="mailto:contato.joey.hawke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><!--contato.joey.hawke@gmail.com-->
  
-
-# Repositórios
+<!--
+# Repositórios>
   
 ## Organização do Material produzido durante os estudos
   
