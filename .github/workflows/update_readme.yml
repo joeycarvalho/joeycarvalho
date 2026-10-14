@@ -1,0 +1,28 @@
+name: Atualizar Linguagens no README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa automaticamente todo dia à meia-noite
+  workflow_dispatch:     # Permite executar manualmente pelo site do GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Executar script de atualização
+        run: python generator.py
+
+      - name: Enviar alterações para o repositório
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualização automática das estatísticas do README" && git push)
