@@ -21,3 +21,12 @@
 ### 📬 Vamos Conectar?
 - **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/joedson-carvalho)
 - **Email:** joeykrusty@gmail.com
+
+---
+
+# Olá, mundo! 🚀
+
+<!--START_SECTION:langs-->
+<!--END_SECTION:langs-->
+
+---
