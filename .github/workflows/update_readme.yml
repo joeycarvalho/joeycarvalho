@@ -2,12 +2,14 @@ name: Atualizar Linguagens no README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Executa automaticamente todo dia à meia-noite
-  workflow_dispatch:     # Permite executar manualmente pelo site do GitHub
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Clonar repositório
         uses: actions/checkout@v3
@@ -17,7 +19,12 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Instalar dependências
+        run: pip install requests
+
       - name: Executar script de atualização
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python generator.py
 
       - name: Enviar alterações para o repositório
