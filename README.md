@@ -25,6 +25,11 @@
 ---
 
 <!--START_SECTION:langs-->
+### 📊 Minhas Linguagens Mais Utilizadas (Dinâmico)
+
+- **Python**: 100.0%
+
+*Atualizado automaticamente via script Python e GitHub Actions.*
 <!--END_SECTION:langs-->
 
 ---
