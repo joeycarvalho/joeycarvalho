@@ -1,5 +1,23 @@
+# Olá, eu sou o Joey Carvalho! 👋
 
-<!---
-JoeyHawke/JoeyHawke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 **Bacharelando em Ciência da Computação** (Último Semestre)
+- 💻 **Desenvolvedor de Software Júnior** com foco em Python, Java, JavaScript, Web e Mobile.
+
+---
+
+### 🚀 Sobre Mim
+- 🔬 Estudo e aplico **Estruturas de Dados, Algoritmos, Programação Orientada a Objetos** e **Arquitetura de Software**.
+- 📊 Conhecimentos em **Análise de Dados, Big Data, Inteligência Artificial** e **Computação em Nuvem**.
+- 🌐 Experiência prática em desenvolvimento Web (HTML/CSS/JS/PHP) e Mobile (Android).
+- 🎯 Em busca da primeira oportunidade profissional como Desenvolvedor Júnior.
+
+---
+
+### 🛠️ Linguagens e Ferramentas
+`Python` `Java` `JavaScript` `PHP` `C` `HTML5` `CSS3` `SQL` `Git` `GitHub` `Android` `UML`
+
+---
+
+### 📬 Vamos Conectar?
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/joedson-carvalho)
+- **Email:** joeykrusty@gmail.com
