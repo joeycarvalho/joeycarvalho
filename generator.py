@@ -10,7 +10,7 @@ def fetch_github_languages():
     query = """
     query($username: String!) {
       user(login: $username) {
-        repositories(first: 50, ownerAffiliations: [OWNER], privacy: PRIVATE) {
+        repositories(first: 50, ownerAffiliations: [OWNER], privacy: PUBLIC) {
           nodes {
             name
             languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
@@ -58,7 +58,7 @@ def fetch_github_languages():
     sorted_langs = sorted(language_stats.items(), key=lambda x: x[1], reverse=True)
     
     percentages = {}
-    for name, size in sorted_langs[:5]: # Pega as top 5 linguagens
+    for name, size in sorted_langs[:10]: # Pega as top 10 linguagens
         percentages[name] = (size / total_size) * 100
         
     return percentages
