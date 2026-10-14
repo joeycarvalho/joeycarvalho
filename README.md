@@ -24,8 +24,6 @@
 
 ---
 
-# Olá, mundo! 🚀
-
 <!--START_SECTION:langs-->
 <!--END_SECTION:langs-->
 
