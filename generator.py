@@ -10,7 +10,7 @@ def fetch_github_languages():
     query = """
     query($username: String!) {
       user(login: $username) {
-        repositories(first: 50, ownerAffiliations: [OWNER], privacy: PUBLIC) {
+        repositories(first: 50, ownerAffiliations: [OWNER], privacy: PRIVATE) {
           nodes {
             name
             languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
